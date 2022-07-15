@@ -41,4 +41,4 @@ async function getPokemon(){
     
 }
 
-getPokemon();
+getPokemon(); //Call Function
